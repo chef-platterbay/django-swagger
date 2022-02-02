@@ -21,7 +21,8 @@ REST_FRAMEWORK = {
 * That's it : Visit [http://127.0.0.1:8000/docs/](http://127.0.0.1:8000/docs/)
 
 
-
+### Screenshot
+![Django Swagger UI screenshot](https://github.com/chef-platterbay/django-swagger/blob/master/Django_Swagger_UI_screenshot.png "Django Swagger UI screenshot")
 
 
 #### Reference
